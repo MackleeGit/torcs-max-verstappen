@@ -86,4 +86,4 @@ python snakeoil3_gym.py
 
 - Base client library: Chris X Edwards (`snakeoil3_gym.py`)
 - Optimization: IBM Bob (iterative telemetry analysis & code refactoring)
-- Challenge: [IBM Bob University TORCS Challenge](https://ibm.biz/IBMBoBUniversity)
+- Challenge: [IBM Bob University TORCS Challenge](https://skills.yourlearning.ibm.com/activity/PLAN-6FA860C53B3A)
