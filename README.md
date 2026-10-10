@@ -1,4 +1,4 @@
-# TORCS AI Driver — Max Verstappen (scr_server 1)
+# TORCS AI Driver — Max Verstoppin' (scr_server 1)
 
 > IBM Bob × TORCS University Challenge  
 > Track: **Corkscrew (E Track 2)** · Standing start · 1 lap · Zero damage
